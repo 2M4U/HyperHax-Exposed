@@ -37,8 +37,9 @@ Vulnerablities Found:
 [Apache 2.4.49 httpd [CVE-2021-41524]](https://nvd.nist.gov/vuln/detail/CVE-2021-41524)
 
 [Exim smtpd 4.94.2 [CVE-2019-15846]](https://www.synacktiv.com/en/publications/scraps-of-notes-on-exploiting-exim-vulnerabilities.html)
+![image](https://user-images.githubusercontent.com/72463084/158073668-a949b0e1-f46f-4c0c-a08e-b4dc91a57c74.png)
 
 
 
 ## Detailed Data:
-[Found here](/Data/index.html)
+Will add more information as I progress through my research.
