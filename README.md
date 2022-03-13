@@ -11,13 +11,53 @@ There has been circulation throughout the Cod-Modding Community that HyperHax ha
 ## HyperHaxz.com
 https://hyperhaxz.com:2083/ -> cPanel
 
-https://hyperhub.dev:2083/ -> cPanel
-
 https://vps-cf0f9521.vps.ovh.ca:2083/ -> cPanel
 
 149.56.108.165 -> [IP Address Data](ipdata.md)
 
+###### Nameservers
+```
+keenan.ns.cloudflare.com
+vivienne.ns.cloudflare.com
+```
+###### Whois
+```
+Domain Name: hyperhaxz.com
+Registry Domain ID: 2588017151_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.ovh.com
+Registrar URL: https://www.ovh.com
+Updated Date: 2021-02-03T01:58:04.0Z
+Creation Date: 2021-01-29T20:32:13.0Z
+Registrar Registration Expiration Date: 2022-01-29T20:32:13.0Z
+Registrar: OVH, SAS
+Registrar IANA ID: 433
+Registrar Abuse Contact Email: email@ovh.net
+Registrar Abuse Contact Phone: +33.972101007
+```
+
+## HyperHub.dev 
+https://hyperhub.dev:2083/ -> cPanel
+###### Nameservers
+```
+ns1.hyperhaxz.com
+ns2.hyperhaxz.com
+```
+###### Whois
+```
+Domain Name: hyperhub.dev
+Registry Domain ID: 471E3A75F-DEV
+Registrar WHOIS Server: whois.ovh.com
+Registrar URL: https://www.ovh.com/world/
+Updated Date: 2021-12-12T20:18:08Z
+Creation Date: 2021-07-27T21:48:13Z
+Registry Expiry Date: 2022-07-27T21:48:13Z
+Registrar: OVH sas
+Registrar IANA ID: 433
+Registrar Abuse Contact Email: email@domain.ovh.net
+Registrar Abuse Contact Phone: +33.320827332
+```
 
 
 
-
+#### Acknowledgments
+Shout out to the COD Community & those who support **REAL** exploit tools and not scumbags like HyperHax & Zqin.
