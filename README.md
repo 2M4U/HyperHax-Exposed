@@ -70,4 +70,4 @@ Registrar Abuse Contact Phone: +33.320827332
 
 #### Acknowledgments
 Shout out to the COD Community & those who support **REAL** exploit tools and not scumbags like HyperHax & Zqin. <br>
-Shout out to HyperHax for being so dumb and easy to [Deobfuscate](HyperHax-CW-Outdated.zip). 
+Shout out to HyperHax for being so dumb and easy to [Deobfuscate](HyperHax-CW-Outdated.zip?raw=true). 
