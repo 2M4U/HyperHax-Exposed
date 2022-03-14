@@ -7,6 +7,9 @@ For those who don't understand how this software works, it essentially hooks int
 It has now come to light after approx a year since they actually did any form of real update that if you purchase/download their software and see you are "growing" in the community due to their software or potentially making your own tools that do pretty much exactly what their tool does, they would instantly token log you.
 There has been circulation throughout the Cod-Modding Community that HyperHax has been cracked and source code released, now with that said numerous members of the COD Community have stated there is infact a Discord Token Logger within the source code that was cracked, so being a Cyber Security Enthusiast I took it upon my self and found something disturbing for such a well known exploit tool in the community.
 
+#### Hall of Skidiots & Loyal Cocksucking Dweebs of Zqin/HyperHax
+[Hall of Skidiots](skids.md)
+
 ##### DNS Mapping
 ![image](https://user-images.githubusercontent.com/72463084/158075375-2f5d029e-6e61-4860-b63e-c97b8af0023f.png)
 
