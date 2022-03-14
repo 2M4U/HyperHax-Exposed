@@ -7,6 +7,9 @@ For those who don't understand how this software works, it essentially hooks int
 It has now come to light after approx a year since they actually did any form of real update that if you purchase/download their software and see you are "growing" in the community due to their software or potentially making your own tools that do pretty much exactly what their tool does, they would instantly token log you.
 There has been circulation throughout the Cod-Modding Community that HyperHax has been cracked and source code released, now with that said numerous members of the COD Community have stated there is infact a Discord Token Logger within the source code that was cracked, so being a Cyber Security Enthusiast I took it upon my self and found something disturbing for such a well known exploit tool in the community.
 
+### Feel free to make a PR if you have anything to add
+###### Currently looking for the latest .exe of their shitty tool to deobfuscate and release publicly to expose them further on their trash development and token logging schemes.
+
 #### Hall of Skidiots & Loyal Cocksucking Dweebs of Zqin/HyperHax
 [Hall of Skidiots](skids.md)
 
@@ -67,3 +70,4 @@ Registrar Abuse Contact Phone: +33.320827332
 
 #### Acknowledgments
 Shout out to the COD Community & those who support **REAL** exploit tools and not scumbags like HyperHax & Zqin.
+Shout out to HyperHax for being so dumb and easy to [Deobfuscate](HyperHax-CW-Outdated.zip). 
